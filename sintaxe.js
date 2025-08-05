@@ -1,0 +1,4 @@
+/*
+    Resumidamente existe uma forma correta de escrever o codico
+
+*/
